@@ -1,0 +1,21 @@
+{
+  "extensions": [
+    {
+      "path": "communities",
+      "application": "3D Search Lite",
+      "payload": {
+        "include-files": [
+          "samples/3dsearch/3dsearch.user.js"
+        ]
+      },
+      "name": "3dsearch Extension",
+      "type": "com.ibm.customizer.ui"
+    }
+  ],
+  "name": "3D Search Lite Sample",
+  "description": "3D Search Lite  Sample",
+  "services": [
+    "Customizer"
+  ],
+  "title": "3D Search Lite Sample"
+}
